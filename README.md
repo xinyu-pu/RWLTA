@@ -42,8 +42,8 @@ This package was developed by Xinyu Pu.
 For any problem concerning the code, please feel free to contact Xinyu Pu (pushyu404@163.com)
 
 ## Contact
-[Hangjun Che, SWU](hjche123@swu.edu.cn)
+[Hangjun Che, SWU](mailto:hjche123@swu.edu.cn)
 
-[Xinyu Pu, SWU](xndsb330@email.swu.edu.cn)
+[Xinyu Pu, SWU](mailto:xndsb330@email.swu.edu.cn)
 
 ---
