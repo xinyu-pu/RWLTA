@@ -1,9 +1,8 @@
 # RWLTA
 ---
 
-<center>Readme for RWLTA</center><br/>
-<p align="center">align居中</p><br/>
-<center>version Dec. 22, 2023</center>
+<p align="center">Readme for RWLTA</p><br/>
+<p align="center">version Dec. 22, 2023</p>
 
 ---
 
@@ -15,7 +14,7 @@ You will find an example of using this code in the repository *(Demo_bbcsport.d,
 MATLAB R2022a, Windows 10, 2.90-4.20 GHz AMD R7-4800H CPU, and 32 GB main memory.
 
 ### Parameter tuning tips:
-- For $w$, we suggest it based on a priori knowledge, specifically, the range of $w_i$ can be set as $[0.1, 10]$. We suggest select $\lambda_1$, $\lambda_2$, and $\lambda_3$ from interval $[0.05, 10]$. For $\theta$, one can select from {0.2, 0.3,0.5, 1, 3, 5}.
+- For $w$, we suggest it based on a priori knowledge, specifically, the range of $w_i$ can be set as $[0.1, 10]$. We suggest select $\lambda_1$, $\lambda_2$, and $\lambda_3$ from interval $[0.05, 10]$. For $\theta$, one can select from {0.2, 0.3, 0.5, 1, 3, 5}.
 - For other parameters, you can keep the default values.
 
 ### Citation
@@ -44,6 +43,7 @@ For any problem concerning the code, please feel free to contact Xinyu Pu (pushy
 
 ## Contact
 [Hangjun Che, SWU](hjche123@swu.edu.cn)
+
 [Xinyu Pu, SWU](xndsb330@email.swu.edu.cn)
 
 ---
