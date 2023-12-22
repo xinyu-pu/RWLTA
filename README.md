@@ -1,7 +1,7 @@
 # RWLTA
 ---
 
-<p align="center">Readme for RWLTA</p><br/>
+<p align="center">Readme for RWLTA</p>
 <p align="center">version Dec. 22, 2023</p>
 
 ---
