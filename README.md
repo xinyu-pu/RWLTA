@@ -9,6 +9,7 @@
 # About the robustness experiments
 The algorithms for feature extraction and noise addition used in the section of the experiments can be found in the repository [image_feature_intensity_LBP_Gabor](https://github.com/xinyu-pu/image_feature_intensity_LBP_Gabor.git)
 
+# Brief introduction
 This repository includes the MATLAB code of the paper [X. Pu, H. Che, B. Pan, M. -F. Leung and S. Wen, "Robust Weighted Low-Rank Tensor Approximation for Multiview Clustering With Mixed Noise," in IEEE Transactions on Computational Social Systems, doi: 10.1109/TCSS.2023.3331366](https://doi.org/10.1109/TCSS.2023.3331366)
 
 You will find an example of using this code in the repository *(Demo_bbcsport.d, Demo_bbc4.m, Demo_msrc.m)* and the corresponding datasets *(bbcsport.mat, BBC.mat, msrc.mat)*
