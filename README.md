@@ -1,4 +1,4 @@
-# RWLTA
+# Robust Weighted Low-Rank Tensor Approximation for Multiview Clustering With Mixed Noise
 ---
 
 <p align="center">Readme for RWLTA</p>
@@ -9,6 +9,8 @@
 This repository includes the MATLAB code of the paper [X. Pu, H. Che, B. Pan, M. -F. Leung and S. Wen, "Robust Weighted Low-Rank Tensor Approximation for Multiview Clustering With Mixed Noise," in IEEE Transactions on Computational Social Systems, doi: 10.1109/TCSS.2023.3331366](https://doi.org/10.1109/TCSS.2023.3331366)
 
 You will find an example of using this code in the repository *(Demo_bbcsport.d, Demo_bbc4.m, Demo_msrc.m)* and the corresponding datasets *(bbcsport.mat, BBC.mat, msrc.mat)*
+
+The algorithm for feature extraction used in the section of the experiments can be found in the repository [image_feature_intensity_LBP_Gabor](https://github.com/xinyu-pu/image_feature_intensity_LBP_Gabor.git)
 
 ## Recommended operating environment
 MATLAB R2022a, Windows 10, 2.90-4.20 GHz AMD R7-4800H CPU, and 32 GB main memory.
