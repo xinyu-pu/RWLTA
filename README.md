@@ -37,7 +37,7 @@ If you use this code please cite:
 ```
 
 ## ATTENTION
-This package is free for academic usage. You can run it at your own risk. 
+This package is free for academic usage. 
 
 For other purposes, please contact Hangjun Che (hjche123@swu.edu.cn)
 
