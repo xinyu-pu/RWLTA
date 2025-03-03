@@ -22,7 +22,7 @@ MATLAB R2022a, Windows 10, 2.90-4.20 GHz AMD R7-4800H CPU, and 32 GB main memory
 - For other parameters, you can keep the default values.
 
 ### Citation
-If you use this code please cite:
+If you find our repo helpful, please consider leaving a star or citing our paper :)
 ```
 @ARTICLE{RWLTA,
   author={Pu, Xinyu and Che, Hangjun and Pan, Baicheng and Leung, Man-Fai and Wen, Shiping},
